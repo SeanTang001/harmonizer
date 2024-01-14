@@ -1,0 +1,1 @@
+music = \new DrumStaff \with {instrumentName = "drums" }<<\new DrumVoice{ \drummode{\stemUp\drummode{cymcb4cymcb4cymcb8r16cymcb4cymcb4cymcb4cymcb}}}\new DrumVoice{ \drummode{\stemDown\drummode{sn4sn4sn4sn4sn4sn4sn}}}>> \score{ \unfoldRepeats \music \layout { }  \midi { \tempo 4 = 131 }}
