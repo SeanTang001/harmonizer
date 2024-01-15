@@ -1,5 +1,5 @@
-#define server_host  "52.8.11.72" // Enter server adress
-#define server_port  17664
+#define server_host  "54.219.245.49" // Enter server adress
+#define server_port  11296
 
 #define THIS_USER_ID  1
 
@@ -17,5 +17,5 @@
 #define PATHBUFLEN 512
 #define led 13
 
-#define DEBUG
-#define SOCKET_DEBUG
+// #define DEBUG
+// #define SOCKET_DEBUG
